@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi!
+Laura here, I am trying to work out all the GitHub features!
